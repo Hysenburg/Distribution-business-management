@@ -12,4 +12,4 @@
 -->quantity 
 - totall amount  view
 - delete item
-- (At the delete item must)
+- (At the delete item last must)
